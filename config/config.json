@@ -1,7 +1,7 @@
 {
-    "prefix": "your_prefix",
-    "token": "your_bot_token",
-    "mongoose": "mongo_db_url",
+    "prefix": ".",
+    "token": "OTU3MTU4NTczNzczODE1ODI4.Yj6tYw.gCtvzZ_4ow4Iq3uMw_38SUvOhOc",
+    "mongoose": "mongodb+srv://devildb:devildb@cluster0.fvjsj.mongodb.net/Cluster0?retryWrites=true&w=majority",
     "emoji": {
         "play": "▶️",
         "stop": "⏹️",
